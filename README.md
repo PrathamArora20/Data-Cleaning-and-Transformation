@@ -4,9 +4,6 @@ This project cleans and transforms data using regex
 
 ## Execution
 
-To execute the file, change the directory to the main folder 
-( in this case "f24-asn1-nDevised" , so its `cd f24-asn1-nDevised` )
-
 Use the following command in the folder directory.
 
 `python3 src/main.py `

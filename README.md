@@ -11,30 +11,6 @@ Use the following command in the folder directory.
 
 `python3 src/main.py `
 
-## Data
-
-The assignment's raw file Data can be found in the "Data" Folder.
-
-Once the script runs , it will generate 2 new folders. 
-
-1) The clean data can be found in the "clean" folder.
-
-2) The transformed data can be found in the "transformed" folder.
-
-The directory will look something like this
-
-f24-asn1-nDevised/ <br/>
-|─ data/<br />
-│<br />
-|─ clean/<br />
-│<br />
-|─ transformed/<br />
-│ <br />
-|─ src/<br />
-│  |─ main.py<br />
-|<br />
-|─ README.md<br />
-|─ justification.txt<br />
 
 
 ## Acknowledgment 
